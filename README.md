@@ -1,2 +1,2 @@
-# IBM_Watson_Studio
-Here are useful links and files for IBM Watson Studio
+## Jupyter Notbook in IBM Watson Studio
+Here are useful links and materials for Jupyter Notebooks (IBM Watson Studio)
